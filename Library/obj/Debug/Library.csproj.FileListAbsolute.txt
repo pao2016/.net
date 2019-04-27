@@ -1,0 +1,2 @@
+E:\netPratica\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\netPratica\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache

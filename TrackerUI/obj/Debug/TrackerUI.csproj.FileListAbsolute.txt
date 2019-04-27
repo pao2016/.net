@@ -1,0 +1,10 @@
+E:\netPratica\TrackerUI\bin\Debug\TrackerUI.exe.config
+E:\netPratica\TrackerUI\bin\Debug\TrackerUI.exe
+E:\netPratica\TrackerUI\bin\Debug\TrackerUI.pdb
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.TourmamenViewerForm.resources
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.exe
+E:\netPratica\TrackerUI\obj\Debug\TrackerUI.pdb
